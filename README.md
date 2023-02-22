@@ -1,5 +1,7 @@
-# Stroke-prediction 
-Take this quiz, figure out if you are prone to stroke or not!
+# STROKE PREDICTION 
+## Machine Learning Application
+  
+  
 
 ## Prediction model
    - Logistic regression
