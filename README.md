@@ -8,3 +8,16 @@
 
 ## Prediction model
    - LOGISTIC REGERESSION
+
+# HOME PAGE 
+![image](https://user-images.githubusercontent.com/86182258/220540297-a0f87553-abfd-4617-8f2a-7f74d3629108.png)
+
+# BMI CHECKER
+![image](https://user-images.githubusercontent.com/86182258/220541073-3a6dad6c-6cb8-40c7-8a47-c5177fcb8e2a.png)
+
+# FORM 
+![image](https://user-images.githubusercontent.com/86182258/220541191-af20bcff-956a-4027-b1bb-c2e69ebf5427.png)
+
+# RESULT 
+![image](https://user-images.githubusercontent.com/86182258/220541309-910e79fe-77f5-493b-94ae-b95d61860c37.png)
+
